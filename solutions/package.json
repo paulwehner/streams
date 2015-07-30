@@ -1,0 +1,20 @@
+{
+  "name": "Streams",
+  "version": "1.0.0",
+  "description": "Introduction to Streams in NodeJS",
+  "main": "1 - Hello World.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "streams",
+    "tutorial"
+  ],
+  "author": "Paul Wehner",
+  "license": "MIT",
+  "dependencies": {
+    "through2": "^2.0.0",
+    "trumpet": "^1.7.1"
+  }
+}
